@@ -6,3 +6,4 @@ wordcloud
 numpy
 scikit-learn
 python-pptx
+openpyxl
